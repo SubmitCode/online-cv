@@ -53,33 +53,47 @@ experiences:
         tbd
           - Bullet point
           - Bullet point
+          
     - role: Senior Consultant Data Science
       time: 2017 - 2018
       company: Inventx AG, Chur
       details: |
-        tbd
-          - Bullet point
-          - Bullet point
+        - Introduction and expansion of DWHs in various cantonal banks on the basis of SQL server with SSIS, SSRS and SSAS.
+        - Successful development of a BI tool based on PowerBI and Azure Cloud Services for one of the largest software providers for garages in Switzerland and Germany 
+        - Introduction and support of big data systems (Splunk) for various cantonal banks
+        - Training sessions on log file management (internal and external)
+        - Development and introduction of a cybersecurity service based on log files
     - role: Quant Portfolio Manager
       time: 2010 - 2017
       company: AIM Capital AG, Liechtenstein
       details: |
-        tbd
-          - Bullet point
-          - Bullet point
+        Research and Development
+          - Development and maintenance of the internal order management system
+          - Development and maintenance of the trading and back office processes
+          - Development of systematic trading models
+        Portfolio Management and Trading
+          - Responsible for the trading and monitoring of all managed futures programs
+          - Reporting (performance reports)
+          - Risk management (
+
+Portfolio Management and Trading
+-	Responsible for the trading and monitoring of all managed futures programs
+-	Reporting (performance reports)
+-	Risk management
+
           
     - role: Software Engineer
       time: 2009 - 2010
       company: Gresser Institute of Finance & Investment, Dubai
       details: |
-        tbd
-          - Bullet point
-          - Bullet point
+        -	Research of trading systems
+        -	Seminar preparation – Presentations on the topic of trading infrastructure and back testing        
+
     
     
     - role: Farmer
       time: 2008 - 2009
-      company: Amazon, London
+      company: Family Farm, Austria
       details: |
         tbd
           - Bullet point
@@ -88,7 +102,7 @@ experiences:
     
     - role: Civil Service
       time: 2007 - 2008
-      company: Amazon, London
+      company: Goverment, Austria
       details: |
         tbd
           - Bullet point
