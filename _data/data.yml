@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: wilhelm.fritsche@gmail.com    
-    website: sumitCode.github.io
+    website: wfr.ai
     linkedin: wilhelm-fritsche-cfa-cqf-pmp-92786844
-    github: submitCode'
+    github: submitCode
     
     languages:
       - idiom: German
@@ -25,6 +25,9 @@ sidebar:
         level: Professional
 
     interests:
+      - item: AI Projects
+        link:
+        
       - item: Climbing
         link:
 
@@ -39,11 +42,41 @@ career-profile:
       and visualizing skills at Inventx to drive customer success.        
       
 education:
+    - degree: Several advanced training sessions on Deep Learning and Reinforcement Learning
+      university: Online MOOCs
+      time: 2016 - Now    
+    
+    - degree: PMP (Project Management Professional) 
+      university: PMI Institute
+      time: 2019
+
+    - degree: CQF (Certificate in Quant Finance)  
+      university: Willmott (London)
+      time: 2016 - 2018    
+    
+    - degree: MCP (Microsoft Certified Professional)  Implementing Data Warehouse 
+      university: Microsoft
+      time: 2016
+    
+    - degree: MCP (Microsoft Certified Professional)  Querying Microsoft SQL Server 
+      university: Microsoft
+      time: 2016
+    
+    - degree: CFA - Chartered Financial Analyst 
+      university: CFA Institute
+      time: 2012 - 2015    
+    
     - degree: BCs Business Administration & Information Systems
       university: University of Liechtenstein
       time: 2006 - 2012
       details: |
-        Bachelor Thesis was about 
+        Bachelor Thesis was about  “Algorithmic trading platforms in the field of systematic trading : a requirement analysis”
+        
+    - degree: Qualification for university studies (Matura)
+      school: Höhere land- und forstwirtschaftliche Schule [School of Higher Education in Agriculture and Forestry]
+      time: 2000 - 2005
+      details: |
+        High School with an focus on Agriculture.      
         
 experiences:
     - role: Lead Data Science
@@ -74,35 +107,25 @@ experiences:
         Portfolio Management and Trading
           - Responsible for the trading and monitoring of all managed futures programs
           - Reporting (performance reports)
-          - Risk management (
-
+          - Risk management (member of the risk committee)
           
     - role: Software Engineer
       time: 2009 - 2010
       company: Gresser Institute of Finance & Investment, Dubai
       details: |
         -	Research of trading systems
-        -	Seminar preparation – Presentations on the topic of trading infrastructure and back testing        
-
-    
+        -	Seminar preparation – Presentations on the topic of trading infrastructure and back testing 
     
     - role: Farmer
       time: 2008 - 2009
       company: Family Farm, Austria
       details: |
-        tbd
-          - Bullet point
-          - Bullet point
-    
+        Running the family business.
     
     - role: Civil Service
       time: 2007 - 2008
       company: Goverment, Austria
-      details: |
-        tbd
-          - Bullet point
-          - Bullet point
-
+      
 projects:
     title: Projects
     intro: >
